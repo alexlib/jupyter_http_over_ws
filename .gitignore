@@ -13,3 +13,4 @@ distribute-*
 .coverage
 coverage.xml
 htmlcov/
+uv.lock
